@@ -1,0 +1,19 @@
+{
+  "name": "amarp86-resume",
+  "version": "1.0.0",
+  "description": "NPM resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "amarp86"
+  },
+  "author": "",
+  "license": "ISC"
+
+  "bin": {
+    "resume-me": "./index.js"
+  },
+}
